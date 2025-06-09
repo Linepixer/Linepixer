@@ -1,4 +1,4 @@
-<h1 align="center">Matías Ezequiel Díaz — Tecnología aplicada con propósito</h1>
+<h1 align="center">Matías Ezequiel Díaz</h1>
 <p align="center">
     Técnico en Electrónica · QA Tester · Apasionado por la tecnología y la automatización
 </p>
